@@ -1,5 +1,6 @@
-# How to build the uta dockerfile
+# How to build the UTA dockerfile
 
+The source code is originally from the official UTA github repo.
 #################################
 
 1. Define the version that you'd like to build. The pgdump file for
